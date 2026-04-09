@@ -1,3 +1,7 @@
+Image.asset(
+  "assets/images/logo.png",
+  width: 150,
+)
 # VX
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
